@@ -1,7 +1,9 @@
 # Capabilities Thinking
-This is a repository for helping drive a conversation around capabilities thinking, building on the work of the community to help stir up new ideas about how we build and integrate software. The goal here is to build upon each other's ideas and existing work to produce work that moves the capabilities discussion forward.
+This is a repository for helping drive a conversation around capabilities thinking, building on the work of the community to help stir up new ideas about how we build and integrate software. The goal here is to build upon each other's ideas and existing work to produce work that moves the capabilities discussion forward to help better align product and engineering
 
 ## What is capability thinking?
+
+"Capability Thinking is an approach rooted in enterprise architecture, event-driven design, and modern API strategy...the focus shifts from exposing data or technical resources to clarifying what your system can actually do for its consumers."  - Daniel Kocot
 
 "Capability Thinking reframes the unit of design. Instead of exposing granular resources, platforms describe discrete business functions such as Ship Order, Process Payment, or Approve Loan." - Daniel Kocot
 
@@ -80,7 +82,27 @@ This is a repository for helping drive a conversation around capabilities thinki
 - What is a Capability? by Kin Lane - https://apievangelist.com/2025/10/07/what-is-a-capability/
 - Translating user benefits into API capabilities, by Bruno Pedro - https://brunopedro.com/2023/08/01/translating-user-benefits-into-api-capabilities/
 - Documenting Your API Around Its Capabilities, by Bruno Pedro - https://apichangelog.substack.com/p/documenting-your-api-around-its-capabilities
+- Beyond MCP, by Daniel Kocot - https://architecturalbytes.substack.com/p/beyond-mcp
 - API Resource, Capabilities, and Experiences by Kin Lane - https://apievangelist.com/2024/02/09/api-resource-capabilities-and-experiences/
+
+## Capability Thinkers
+These are people cited here and have contributed to the concept of capabilities.
+
+- [Daniel Kocot](https://www.linkedin.com/in/danielkocot/)
+- [Bruno Pedro](https://www.linkedin.com/in/bpedro/)
+- [Christian Posta](https://www.linkedin.com/in/ceposta/)
+- [Kristof Van Tomme](https://www.linkedin.com/in/kvantomme/)
+- [Mike Amundsen](https://www.linkedin.com/in/mamund/)
+- [Irakli Nadareishvili](https://www.linkedin.com/in/inadarei/)
+- [Kin Lane](https://www.linkedin.com/in/kinlane/)
+
+## Target Audience
+These are the roles we are currentlyk targeting with storytelling around capabilities thinking.
+
+- Head of API
+- Head of AI
+- Head of Platform
+- Head of Integration
 
 ## Contributions
 Feel free to join in the discussion and contribute a pull request or an issue as we work to turn this into something bigger than any single person contributing.
